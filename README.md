@@ -31,7 +31,7 @@ Awas Ae Klo Ketauan
 ## Tutorial Install
 + pkg install git -y
 + pkg install qy -y
-+ git clone https://github.com/MrHafizhDev/Spamwabyhafizhganz
++ git clone https://github.com/MrHafizhDev/spamwabyhafizhganz
 + yang lainnya cek di file tutorial
 
 ## Please Donate Me
@@ -41,7 +41,8 @@ Awas Ae Klo Ketauan
 - [` Trakteer`](https://trakteer.id/doraemonbot)
 
 ## My Info
-* [`WhatsApp`](wa.me/6285741056111)
+- [`Instagram`](https://instagram.com/hafizh.021y/)
+* [`WhatsApp`](https://wa.me/6285741056111)
 * [`YouTube`](https://youtu.be/mwjTn5Th8LI)
 
 ### Special Thank To
