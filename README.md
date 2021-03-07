@@ -39,7 +39,7 @@ Awas Ae Klo Ketauan
 - [`Saweria`](https://saweria.co/doraemonbot)
 
 - [` Trakteer`](https://trakteer.id/doraemonbot)
-/
+
 ## My Info
 * [`WhatsApp`](wa.me/6285741056111)
 * [`YouTube`](https://youtu.be/mwjTn5Th8LI)
