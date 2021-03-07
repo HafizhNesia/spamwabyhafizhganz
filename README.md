@@ -16,12 +16,13 @@ Awas Ae Klo Ketauan
 + pkg install git -y
 + pkg install qy -y
 + git clone https://github.com/MrHafizhDev/Spamwabyhafizhganz
++ yang lainnya cek di file tutorial
 
-# Please Donate Me/
+# Please Donate Me
 - Saweria
-- {https://saweria.co/doraemonbot}
+- [`Saweria`] (https://saweria.co/doraemonbot)
 - Trakteer
-- {https://trakteer.id/doraemonbot}
+- [` Trakteer`] (https://trakteer.id/doraemonbot)
 
 # Special Thank To
 - Allah SWT
