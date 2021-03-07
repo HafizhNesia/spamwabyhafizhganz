@@ -13,9 +13,9 @@ Special Thanks To Jan Diubah!
 Awas Ae Klo Ketauan
 
 # Tutorial Install
-$ pkg install git -y
-$ pkg install qy -y
-$ git clone https://github.com/MrHafizhDev/Spamwabyhafizhganz
++ pkg install git -y
++ pkg install qy -y
++ git clone https://github.com/MrHafizhDev/Spamwabyhafizhganz
 
 # Please Donate Me/
 - Saweria
