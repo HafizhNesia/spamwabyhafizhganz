@@ -18,7 +18,7 @@ Awas Ae Klo Ketauan
 + git clone https://github.com/MrHafizhDev/Spamwabyhafizhganz
 + yang lainnya cek di file tutorial
 
-# Please Donate Me
+## Please Donate Me
 - Saweria
 - [`Saweria`] (https://saweria.co/doraemonbot)
 - Trakteer
