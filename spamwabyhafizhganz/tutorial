@@ -1,0 +1,49 @@
+# KASIH CREDIT GW BABI
+# REUPLOAD TANPA IZIN GW GANTI PW NYA
+# INGET BRO NUMPANG NAMA TIDAK BISA BIKIN LU PRO
+# CREDIT HAFIZH GANZ
+# CREDIT XTEAM SPAM WHATSAPP
+# NAH KAN ASU DIUBAH BABI LU
+# LU UBAH CREDIT? GW GANTI PASSWORD NYA!
+
+Sebelum ke tutorial sebaiknya kalian subsribe yt dan follow ig gw cuy
+# YouTube : Doraemon Bot Official
+# Instagram : hafizh.021y
+# Wa : kgk ah ntar lu spam gw monyed
+
+# tutorial nya ya guys
+ada 2 tutorial sebaiknya kalian ikutin yang tutorial 1 dlu 
+ 
+ # Tutorial 1 (Bagian Zarchiver)
+ nah kalian buka zarchiver
+ pilih file yang dari mediafire tadi
+atau cari aja file yang bernama
+spamwabyhafizhganz
+copy ke home 
+masukkan password
+Jika sudah kalian Ikutin Tutorial Yang ke 2
+
+# Tutorial 2 (Bagian Termux)
+note : tulis di termux tanpa tanda "$" yah
+$termux-setup-storage
+$pkg update -y && pkg upgrade -y
+$pkg install bash
+$pkg install git -y
+$pkg install jq -y
+$cd /sdcard
+$ls
+$cp -r spamwabyhafizhganz
+$cd
+$cd spamwabyhafizhganz
+$ls
+$bash spamwabyhafizh.sh
+ # jika sudah kalian masukkan password nya guys di termux
+password nya ada dilink dibagian termux 
+kalian masuk aja kelink yang di termux
+setelah itu kalian akan mendapatkan passwordnya
+# dan kalian masukkan nomor target yang ingin dispam
+contoh :
+083824558998
+
+
+# Sekian Dari Gw Ya Cuy
