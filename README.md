@@ -41,14 +41,16 @@ Awas Ae Klo Ketauan
 - [` Trakteer`](https://trakteer.id/doraemonbot)
 
 ## My Info
-- [`Instagram`](https://instagram.com/hafizh.021y/)
+* [`Instagram`](https://instagram.com/hafizh.021y/)
 * [`WhatsApp`](https://wa.me/6285741056111)
 * [`YouTube`](https://youtu.be/mwjTn5Th8LI)
+* [`GitHub`](https://github.com/MrHafizhDev)
 
-### Special Thank To
+### Special Thanks To
 - Allah SWT
 - Orang Tua
 - Hafizh Ganz
 - HafizhxTeam
 - Teman Teman Semua
 - Subscribers Doraemon Bot Official
+- [`GitHub`)(https://github.com/Mrhafizh21)
