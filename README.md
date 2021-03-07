@@ -13,7 +13,8 @@ p align="center">
 <a href="#"><img title="MAINTENED" src="https://img.shields.io/badge/MAINTENED-YES-blue.svg"</a>
 
 </p>
-# title
+
+## Title
 noh ekstrak aj file nya
 kasih credit gw bruh
 Hafizh Ganz & HafizhxTeam
@@ -35,9 +36,12 @@ Awas Ae Klo Ketauan
 
 ## Please Donate Me
 - Saweria
-- [`Saweria`] (https://saweria.co/doraemonbot)
+- [`Saweria`](https://saweria.co/doraemonbot)
 - Trakteer
-- [` Trakteer`] (https://trakteer.id/doraemonbot)
+- [` Trakteer`](https://trakteer.id/doraemonbot)
+/
+## My Info
+* [`WhatsApp`](wa.me/6285741056111)
 
 # Special Thank To
 - Allah SWT
