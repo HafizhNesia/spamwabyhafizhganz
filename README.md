@@ -1,8 +1,8 @@
 p align="center">
 
-<a href="https://github.com/MrHafizhDev/followers"><img title="Followers" src="https://img.shields.io/github/followers/affisjunianto?color=blue&style=flat-square"></a>
+<a href="https://github.com/MrHafizhDev/followers"><img title="Followers" src="https://img.shields.io/github/followers/MrHafizhDev?color=blue&style=flat-square"></a>
 
-<a href="https://github.com/MrHafizhDev/spamwabyhafizhganz/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/affisjunianto/botwasapv5?color=red&style=flat-square"></a>
+<a href="https://github.com/MrHafizhDev/spamwabyhafizhganz/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/MrHafizhDev/spamwabyhafizhganz?color=red&style=flat-square"></a>
 
 <a href="https://github.com/MrHafizhDev/spamwabyhafizhganz/network/members"><img title="Forks" src="http://img.shields.io/github/forks/MrHafizhDev/spamwabyhafizhganz?color=red&style=flat-square"></a>
 
@@ -24,26 +24,27 @@ ambil aja tu
 
 
 
-# Note 
+## Note 
 Special Thanks To Jan Diubah!
 Awas Ae Klo Ketauan
 
-# Tutorial Install
+## Tutorial Install
 + pkg install git -y
 + pkg install qy -y
 + git clone https://github.com/MrHafizhDev/Spamwabyhafizhganz
 + yang lainnya cek di file tutorial
 
 ## Please Donate Me
-- Saweria
+
 - [`Saweria`](https://saweria.co/doraemonbot)
-- Trakteer
+
 - [` Trakteer`](https://trakteer.id/doraemonbot)
 /
 ## My Info
 * [`WhatsApp`](wa.me/6285741056111)
+* [`YouTube`](https://youtu.be/mwjTn5Th8LI)
 
-# Special Thank To
+### Special Thank To
 - Allah SWT
 - Orang Tua
 - Hafizh Ganz
